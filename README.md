@@ -1,6 +1,9 @@
 Projects of Data Engineering using :
-- Spark framework (Spark, PySpark, SparkSQL)
-- BigData parallel querying engines -Hive, Impala)
-- ETL and Pipelines
+- Scrapping & APIs
+- Spark framework
+- Shell scripting
+- ETL and Data Pipelines (Airflow, Kafka)
 - Unit Testing
-- Docker & Kubernetes
+- Containers (Docker & Kubernetes)
+- Storage for Big Data (Datalakes & Datawahouse)
+- AWS / GCP / IBM Cloud
