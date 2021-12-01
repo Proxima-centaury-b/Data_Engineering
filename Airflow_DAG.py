@@ -27,7 +27,7 @@ default_args = {
 dag = DAG(
     dag_id = 'ETL_toll_data',
     default_args=default_args,
-    description='Apache Airflow Final Assignment',
+    description='Apache Airflow DAG',
     schedule_interval=timedelta(days=1),
 )
 
